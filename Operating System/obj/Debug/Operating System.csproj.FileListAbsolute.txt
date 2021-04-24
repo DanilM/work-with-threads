@@ -1,0 +1,20 @@
+C:\Users\Warmi\source\repos\Operating System\Operating System\bin\Debug\Operating System.exe.config
+C:\Users\Warmi\source\repos\Operating System\Operating System\bin\Debug\Operating System.exe
+C:\Users\Warmi\source\repos\Operating System\Operating System\bin\Debug\Operating System.pdb
+C:\Users\Warmi\source\repos\Operating System\Operating System\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Warmi\source\repos\Operating System\Operating System\bin\Debug\WebDriver.dll
+C:\Users\Warmi\source\repos\Operating System\Operating System\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Warmi\source\repos\Operating System\Operating System\bin\Debug\WebDriver.xml
+C:\Users\Warmi\source\repos\Operating System\Operating System\obj\Debug\Operating System.csprojAssemblyReference.cache
+C:\Users\Warmi\source\repos\Operating System\Operating System\obj\Debug\MainWindow.g.cs
+C:\Users\Warmi\source\repos\Operating System\Operating System\obj\Debug\App.g.cs
+C:\Users\Warmi\source\repos\Operating System\Operating System\obj\Debug\Operating System_MarkupCompile.cache
+C:\Users\Warmi\source\repos\Operating System\Operating System\obj\Debug\Operating System_MarkupCompile.lref
+C:\Users\Warmi\source\repos\Operating System\Operating System\obj\Debug\MainWindow.baml
+C:\Users\Warmi\source\repos\Operating System\Operating System\obj\Debug\Operating System.g.resources
+C:\Users\Warmi\source\repos\Operating System\Operating System\obj\Debug\Operating_System.Properties.Resources.resources
+C:\Users\Warmi\source\repos\Operating System\Operating System\obj\Debug\Operating System.csproj.GenerateResource.cache
+C:\Users\Warmi\source\repos\Operating System\Operating System\obj\Debug\Operating System.csproj.CoreCompileInputs.cache
+C:\Users\Warmi\source\repos\Operating System\Operating System\obj\Debug\Operating System.csproj.CopyComplete
+C:\Users\Warmi\source\repos\Operating System\Operating System\obj\Debug\Operating System.exe
+C:\Users\Warmi\source\repos\Operating System\Operating System\obj\Debug\Operating System.pdb

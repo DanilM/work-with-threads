@@ -1,0 +1,20 @@
+C:\Users\Warmi\source\repos\Operating System\Operating System\bin\Release\Operating System.exe.config
+C:\Users\Warmi\source\repos\Operating System\Operating System\bin\Release\Operating System.exe
+C:\Users\Warmi\source\repos\Operating System\Operating System\bin\Release\Operating System.pdb
+C:\Users\Warmi\source\repos\Operating System\Operating System\bin\Release\Newtonsoft.Json.dll
+C:\Users\Warmi\source\repos\Operating System\Operating System\bin\Release\WebDriver.dll
+C:\Users\Warmi\source\repos\Operating System\Operating System\bin\Release\Newtonsoft.Json.xml
+C:\Users\Warmi\source\repos\Operating System\Operating System\bin\Release\WebDriver.xml
+C:\Users\Warmi\source\repos\Operating System\Operating System\obj\Release\Operating System.csprojAssemblyReference.cache
+C:\Users\Warmi\source\repos\Operating System\Operating System\obj\Release\MainWindow.g.cs
+C:\Users\Warmi\source\repos\Operating System\Operating System\obj\Release\App.g.cs
+C:\Users\Warmi\source\repos\Operating System\Operating System\obj\Release\Operating System_MarkupCompile.cache
+C:\Users\Warmi\source\repos\Operating System\Operating System\obj\Release\Operating System_MarkupCompile.lref
+C:\Users\Warmi\source\repos\Operating System\Operating System\obj\Release\MainWindow.baml
+C:\Users\Warmi\source\repos\Operating System\Operating System\obj\Release\Operating System.g.resources
+C:\Users\Warmi\source\repos\Operating System\Operating System\obj\Release\Operating_System.Properties.Resources.resources
+C:\Users\Warmi\source\repos\Operating System\Operating System\obj\Release\Operating System.csproj.GenerateResource.cache
+C:\Users\Warmi\source\repos\Operating System\Operating System\obj\Release\Operating System.csproj.CoreCompileInputs.cache
+C:\Users\Warmi\source\repos\Operating System\Operating System\obj\Release\Operating System.csproj.CopyComplete
+C:\Users\Warmi\source\repos\Operating System\Operating System\obj\Release\Operating System.exe
+C:\Users\Warmi\source\repos\Operating System\Operating System\obj\Release\Operating System.pdb
